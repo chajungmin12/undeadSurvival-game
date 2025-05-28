@@ -1,3 +1,2 @@
 # undeadSurvival-game
-# week 11
-# add gear
+# 2025.05.28 All Upadate
