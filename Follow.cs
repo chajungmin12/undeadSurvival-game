@@ -13,4 +13,5 @@ public class Follow : MonoBehaviour
     //     {
     //     rect.position = Camera.main.WorldToScreenPoint(GameManager.instance.player.transform.position);
     //     }
+    // Confused Camera (version problem) 
 }
